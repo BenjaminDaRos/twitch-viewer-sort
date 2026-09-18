@@ -25,7 +25,7 @@ Disable the extension in about:addons to use another sort order.
 
 ## Install locally
 
-Requires Firefox 140 or newer. The extension is not yet published on Firefox
+Requires Firefox 142 or newer. The extension is not yet published on Firefox
 Add-ons.
 
 1. Download or clone this repository.
